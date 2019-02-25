@@ -6,4 +6,4 @@
 
   ## **Maria Larchenko**
   
-  **HTML CSS Basics:** https://www.codecademy.com/users/MariaLarchenko/achievements 
+ ### **HTML CSS Basics:** https://www.codecademy.com/users/MariaLarchenko/achievements 
